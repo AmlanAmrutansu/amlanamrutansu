@@ -1,48 +1,27 @@
-## Hi there! 👋
+<h1 align="center">Hi 👋, I'm Amlan Amrutansu</h1>
+<h3 align="center">A passionate Full-Stack Web Developer & Cybersecurity Professional from India</h3>
 
-I'm **Amlan Amrutansu**, a passionate developer from **India 🇮🇳**. I love exploring new technologies and creating innovative solutions. Let's build something amazing together!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amlanamrutansu&label=Profile%20views&color=0e75b6&style=flat" alt="amlanamrutansu" /> </p>
 
-## About Me
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amlanamrutansu" alt="amlanamrutansu" /></a> </p>
 
-I am currently studying at **Siksha O Anusandhan University**. I'm based in **Puri**, and I have a keen interest in software development and data science. My passion lies in leveraging technology to solve real-world problems.
+- 🔭 I’m currently working on [Trishul-001](https://github.com/AmlanAmrutansu/Trishul-001)
 
-## Skills & Technologies
+- 🌱 I’m currently learning **Data Science & Data Analytics**
 
-html,css,django,flask,mysql,git,github,aws,react,nodejs,express,bootstrap,tailwind,linux
+- 📫 How to reach me **amlanamrutansu@gmail.com**
 
-## Top Projects
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/sasofficial23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sasofficial23" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/amlanamrutansu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amlanamrutansu" height="30" width="40" /></a>
+<a href="https://instagram.com/theamlan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="theamlan" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/sasknowledgographer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sasknowledgographer" height="30" width="40" /></a>
+</p>
 
-- [**Mothers-Day-Gift**](https://github.com/AmlanAmrutansu/Mothers-Day-Gift)  
-  A heartfelt project dedicated to my mother.  
-  ⭐ 0 | 🌍 HTML | 🔧 0 Forks | 🔧 0 Issues  
-  [Live Demo](https://amlanamrutansu.github.io/Mothers-Day-Gift/)  
-  
-- [**Data-Science-Final-Assignment**](https://github.com/AmlanAmrutansu/Data-Science-Final-Assignment)  
-  A project showcasing my skills in data science using Jupyter Notebooks.  
-  ⭐ 0 | 🌍 Jupyter Notebook | 🔧 0 Forks | 🔧 0 Issues  
-  
-- [**Anveshak_Project-01**](https://github.com/AmlanAmrutansu/Anveshak_Project-01)  
-  A web project built using HTML, showcasing my web development skills.  
-  ⭐ 0 | 🌍 HTML | 🔧 0 Forks | 🔧 0 Issues  
-  
-- [**amlanamrutansu**](https://github.com/AmlanAmrutansu/amlanamrutansu)  
-  My personal repository containing various experiments and projects.  
-  ⭐ 0 | 🌍 N/A | 🔧 0 Forks | 🔧 0 Issues
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-## GitHub Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amlanamrutansu&show_icons=true&locale=en&layout=compact" alt="amlanamrutansu" /></p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmlanAmrutansu&show_icons=true&hide_title=true&count_private=true&theme=radical)
-
-- **Public Repositories:** 4  
-- **Followers:** 0  
-- **Following:** 0  
-
-Feel free to check out my stats above!
-
-## Latest Blog Posts
-
-Currently, I do not have any blog posts published. Stay tuned for updates!
-
-## Connect with Me
-
-{"youtube":"https://youtube.com/@SASKnowledgographer/","twitter":"https://x.com/sasofficial23/","instagram":"https://www.instagram.com/theamlan/"}
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amlanamrutansu&show_icons=true&locale=en" alt="amlanamrutansu" /></p>
