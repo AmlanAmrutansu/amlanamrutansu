@@ -1,29 +1,47 @@
 <div align="center">
 
-<img src="assets/profile.png" width="300" alt="Amlan Amrutansu - Developer Profile">
+<!-- ========================================================= -->
+<!--                       PROFILE IMAGE                        -->
+<!-- ========================================================= -->
+
+<img src="assets/portrait.svg" width="300" alt="Amlan Amrutansu - developer portrait">
 
 <br>
 
+<!-- ========================================================= -->
+<!--                    ANIMATED INTRO                          -->
+<!-- ========================================================= -->
+
 <a href="https://github.com/AmlanAmrutansu">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=620&lines=Amlan+Amrutansu;Full-Stack+Developer;Cybersecurity+Enthusiast;Data+%26+Analytics;Problem+Solver;01000011+01001111+01000100+01000101" alt="typing banner">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=650&lines=Amlan+Amrutansu;Full-Stack+Developer;Cybersecurity+Enthusiast;Data+%26+Analytics;Problem+Solver;Software+%26+Security;01000011+01001111+01000100+01000101" alt="Animated typing banner">
+
 </a>
 
-<br><br>
+<br>
+
+<!-- ========================================================= -->
+<!--                         SOCIALS                            -->
+<!-- ========================================================= -->
 
 <a href="https://linkedin.com/in/amlanamrutansu">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
+
 <a href="mailto:amlanamrutansu@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
+
 <a href="https://github.com/AmlanAmrutansu">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
+
 <a href="https://twitter.com/sasofficial23">
-  <img src="https://img.shields.io/badge/Twitter-111111?style=for-the-badge&logo=x&logoColor=white" alt="Twitter">
+<img src="https://img.shields.io/badge/Twitter-111111?style=for-the-badge&logo=x&logoColor=white" alt="Twitter">
 </a>
+
 <a href="https://instagram.com/theamlan">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 
 <br><br>
@@ -40,33 +58,38 @@
 $ cat about.txt
 ```
 
-I'm **Amlan Amrutansu** — a developer interested in the intersection of **software engineering, cybersecurity, data, and problem solving**.
+Hi, I'm **Amlan Amrutansu** — a developer working at the intersection of **software engineering, cybersecurity, data and problem solving**.
 
-I enjoy understanding how systems work beneath the interface — from algorithms and databases to web applications, operating systems and security.
+I enjoy building things, understanding how systems work underneath the interface, and solving problems that force me to think beyond the obvious solution.
 
-- 🔭 Currently working on **[Trishul-001](https://github.com/AmlanAmrutansu/Trishul-001)**
-- 🛡️ Focused on **Cybersecurity & Secure Systems**
+My interests span from **full-stack web development and databases** to **cybersecurity, Linux, algorithms and data analytics**.
+
+- 🛡️ Exploring **Cybersecurity & Secure Systems**
+- 🌐 Building with **Full-Stack Web Technologies**
 - 📊 Learning **Data Science & Data Analytics**
-- 💻 Building with **Python, C++, JavaScript, React & Node.js**
-- 🗄️ Working with **SQL, MySQL & MongoDB**
-- 🐧 Working with **Linux, Git & development environments**
-- 🧠 Practicing **Data Structures, Algorithms & Competitive Programming**
-- ⚙️ Interested in **Full-Stack Development, DBMS, Cybersecurity & Automation**
-- 🚀 Building software that is **useful, secure and technically sound**
+- 🧠 Practicing **Data Structures, Algorithms & Problem Solving**
+- 🗄️ Working with **DBMS, SQL & NoSQL databases**
+- 🐧 Exploring **Linux and system-level technologies**
+- ⚙️ Interested in **automation, software architecture and secure development**
+- 💡 I like turning ideas into working systems
 
 <br>
 
+<div align="center">
+
 ```text
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│   BUILD        →        SECURE        →        ANALYZE    │
-│                                                          │
-│   Web Apps              Cybersecurity          Data      │
-│   APIs                  Systems                Analytics │
-│   Algorithms            Networks               Insights  │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│      CODE       →       SECURE       →       ANALYZE         │
+│                                                             │
+│   Applications        Cybersecurity          Data           │
+│   Algorithms          Systems                Analytics      │
+│   APIs                Networks               Insights       │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ```
+
+</div>
 
 ---
 
@@ -76,23 +99,23 @@ I enjoy understanding how systems work beneath the interface — from algorithms
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,c,js,html,css&perline=7" alt="Programming Languages">
+<img src="https://skillicons.dev/icons?i=python,cpp,java,c,js,html,css&perline=7" alt="Programming languages">
 
-### Full-Stack Development
+### Web Development
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap&perline=8" alt="Web Development Technologies">
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap&perline=8" alt="Web development technologies">
 
 ### Databases & Backend
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&perline=8" alt="Databases and Backend Technologies">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&perline=8" alt="Databases and backend technologies">
 
-### Cybersecurity / Systems
+### Systems & Cloud
 
-<img src="https://skillicons.dev/icons?i=linux,bash,aws&perline=8" alt="Cybersecurity and Systems Technologies">
+<img src="https://skillicons.dev/icons?i=linux,bash,aws&perline=8" alt="Systems and cloud technologies">
 
-### Tools
+### Development Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,arduino&perline=8" alt="Development Tools">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,arduino&perline=8" alt="Development tools">
 
 </div>
 
@@ -105,36 +128,36 @@ I enjoy understanding how systems work beneath the interface — from algorithms
 <table>
 <tr>
 
-<td width="50%" align="center" valign="top">
+<td width="50%" align="center" valign="middle">
 
 ### 💻 Software Engineering
 
 ```text
 Full-Stack Development
-REST APIs
 Frontend Development
 Backend Development
+REST APIs
 Object-Oriented Programming
+Software Architecture
 Data Structures & Algorithms
 Problem Solving
-Software Development
 ```
 
 </td>
 
-<td width="50%" align="center" valign="top">
+<td width="50%" align="center" valign="middle">
 
 ### 🛡️ Cybersecurity
 
 ```text
 Cybersecurity Fundamentals
-Linux & System Security
-Networking Concepts
 Web Security
-Authentication & Authorization
-Security Awareness
-Secure Development
 System Security
+Linux
+Networking Concepts
+Authentication
+Authorization
+Secure Development
 ```
 
 </td>
@@ -143,7 +166,7 @@ System Security
 
 <tr>
 
-<td width="50%" align="center" valign="top">
+<td width="50%" align="center" valign="middle">
 
 ### 🗄️ Data & Databases
 
@@ -160,19 +183,19 @@ Data Interpretation
 
 </td>
 
-<td width="50%" align="center" valign="top">
+<td width="50%" align="center" valign="middle">
 
-### 🧠 Problem Solving
+### 🧠 Algorithms & Problem Solving
 
 ```text
 Competitive Programming
-Searching Algorithms
-Sorting Algorithms
-Arrays & Strings
-Stacks & Graphs
+Searching
+Sorting
+Arrays
+Strings
+Stacks
+Graphs
 Recursion
-Logical Reasoning
-Coding Interview Preparation
 ```
 
 </td>
@@ -186,60 +209,40 @@ Coding Interview Preparation
 
 <div align="center">
 
-## `~/` current focus
+## `~/` skill radar
 
 <table>
 <tr>
 
-<td width="25%" align="center">
+<td width="50%" align="center" valign="middle">
 
-### 🛡️
+<!-- Self-assessed technical skill radar -->
 
-**Cybersecurity**
+<picture>
 
-Secure Systems  
-Web Security  
-Networking  
-Security Concepts
+<source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg">
 
-</td>
+<source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
 
-<td width="25%" align="center">
+<img src="assets/radar-dark.svg" width="400" alt="Technical skill radar">
 
-### 📊
-
-**Data**
-
-Data Science  
-Data Analytics  
-Python  
-Data Interpretation
+</picture>
 
 </td>
 
-<td width="25%" align="center">
+<td width="50%" align="center" valign="middle">
 
-### 🌐
+<!-- Language usage radar generated from repository activity -->
 
-**Development**
+<picture>
 
-React  
-Node.js  
-REST APIs  
-Full-Stack
+<source media="(prefers-color-scheme: dark)" srcset="assets/radar-langs-dark.svg">
 
-</td>
+<source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg">
 
-<td width="25%" align="center">
+<img src="assets/radar-langs-dark.svg" width="400" alt="Programming language radar">
 
-### 🧠
-
-**Algorithms**
-
-DSA  
-Problem Solving  
-Competitive Programming  
-Coding Interviews
+</picture>
 
 </td>
 
@@ -252,9 +255,25 @@ Coding Interviews
 
 <div align="center">
 
-## `~/` contribution activity
+## `~/` contribution calendar
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmlanAmrutansu&theme=github-compact&hide_border=true&area=true" width="95%" alt="Amlan's GitHub Contribution Graph">
+<!-- 3D contribution calendar -->
+
+<img src="assets/metrics.isocalendar.svg" width="90%" alt="3D GitHub contribution calendar">
+
+<br><br>
+
+<!-- Animated contribution snake -->
+
+<picture>
+
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmlanAmrutansu/AmlanAmrutansu/output/snake-dark.svg">
+
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmlanAmrutansu/AmlanAmrutansu/output/snake.svg">
+
+<img src="https://raw.githubusercontent.com/AmlanAmrutansu/AmlanAmrutansu/output/snake.svg" width="100%" alt="Snake eating GitHub contribution graph">
+
+</picture>
 
 </div>
 
@@ -264,11 +283,29 @@ Coding Interviews
 
 ## `~/` the numbers
 
-<img src="https://github-readme-stats.vercel.app/api?username=AmlanAmrutansu&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true" width="480" alt="Amlan's GitHub Statistics">
+<!-- GitHub statistics -->
+
+<picture>
+
+<source media="(prefers-color-scheme: dark)" srcset="assets/card-stats-dark.svg">
+
+<source media="(prefers-color-scheme: light)" srcset="assets/card-stats-light.svg">
+
+<img src="assets/card-stats-dark.svg" width="480" alt="GitHub statistics">
+
+</picture>
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmlanAmrutansu&layout=compact&hide_border=true&theme=github_dark&langs_count=8" width="400" alt="Amlan's Most Used Languages">
+<!-- Most used languages -->
+
+<img src="assets/metrics.languages.svg" height="165" alt="Most used programming languages">
+
+<br><br>
+
+<!-- GitHub achievements -->
+
+<img src="assets/metrics.achievements.svg" width="90%" alt="GitHub achievements">
 
 </div>
 
@@ -286,33 +323,35 @@ Coding Interviews
 
 ### 🛡️ Trishul-001
 
-Security-focused development project exploring practical cybersecurity and system-level concepts.
+A security-oriented project exploring practical cybersecurity and system-level concepts.
 
 <br>
 
-**Stack**
+<a href="https://github.com/AmlanAmrutansu/Trishul-001">
 
-`Python` `Cybersecurity` `Linux`
+<img src="https://img.shields.io/badge/Repository-39D353?style=for-the-badge&logo=github&logoColor=black" alt="Trishul-001 repository">
+
+</a>
 
 <br><br>
 
-<a href="https://github.com/AmlanAmrutansu/Trishul-001">
-<img src="https://img.shields.io/badge/View%20Repository-39D353?style=for-the-badge&logo=github&logoColor=black" alt="View Trishul-001 Repository">
-</a>
+`Cybersecurity` `Python` `Linux`
 
 </td>
 
 <td width="50%" align="center">
 
-### 📊 Data & Analytics
+### 🧠 Problem Solving
 
-Exploring data analysis, data science workflows and Python-based problem solving.
+A continuous collection of algorithmic practice, coding problems and technical interview preparation.
 
 <br>
 
-**Stack**
+`C++` `Python` `DSA` `Algorithms`
 
-`Python` `Data Science` `Data Analytics`
+<br><br>
+
+<img src="https://img.shields.io/badge/DSA-39D353?style=for-the-badge&logo=leetcode&logoColor=black" alt="Data structures and algorithms">
 
 </td>
 
@@ -326,42 +365,57 @@ Exploring data analysis, data science workflows and Python-based problem solving
 
 <div align="center">
 
-## `~/` coding philosophy
+## `~/` engineering mindset
 
 ```text
-01  Understand the problem.
-02  Break the system down.
-03  Build the simplest working solution.
-04  Test the edge cases.
-05  Make it secure.
-06  Analyze the result.
-07  Improve it.
+┌──────────────────────────────────────────────┐
+│                                              │
+│  01  Understand the problem                  │
+│  02  Break the system down                   │
+│  03  Design before implementation             │
+│  04  Build the simplest working solution     │
+│  05  Test the edge cases                     │
+│  06  Think about security                    │
+│  07  Analyze the result                      │
+│  08  Improve the implementation              │
+│                                              │
+└──────────────────────────────────────────────┘
 ```
 
 <br>
 
 ```text
-01000010 01010101 01001001 01001100 01000100
+01000011 01001111 01000100 01000101
 
-        ↓
+            ↓
 
 01010011 01000101 01000011 01010101 01010010 01000101
 
-        ↓
+            ↓
 
 01000001 01001110 01000001 01001100 01011001 01011010 01000101
 
-        ↓
+            ↓
 
 01001001 01001101 01010000 01010010 01001111 01010110 01000101
 ```
 
 <br>
 
-<sub>BUILD • SECURE • ANALYZE • IMPROVE</sub>
+<sub>CODE • SECURE • ANALYZE • IMPROVE</sub>
 
-<br><br>
+</div>
 
-<sub>Thanks for scrolling.</sub>
+---
+
+<div align="center">
+
+<sub>
+01010100 01001000 01000001 01001110 01001011 01010011
+00100000
+01000110 01001111 01010010
+00100000
+01010011 01000011 01010010 01001111 01001100 01001100 01001001 01001110 01000111
+</sub>
 
 </div>
